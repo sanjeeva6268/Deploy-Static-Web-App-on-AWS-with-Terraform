@@ -4,6 +4,6 @@ terraform {
     bucket    = "terraformstatefile12"
     key       = "jupiter-website-ecs.tfstate"
     region    = "us-east-1"
-    profile   = "terraform-user"
+    profile   = "tf-user"
   }
 }
